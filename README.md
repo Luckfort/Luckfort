@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone! 👋
 
 <!--
 **Luckfort/Luckfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Jingyuan Huang, a CS PhD student at Rutgers University.
+- 👋 Hi, I’m Jingyuan Huang (Michael Ching-yuen Huang), a CS PhD student at Rutgers University.
 - 🔍 I’m interested in internet of agents, recommender systems, data mining, and large language models.  
 - 🧠 I’m currently working on LLM-Agents and Decentralized AI. 
 - 🤝 I’m looking to collaborate with people interested in these topics.
