@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Jingyuan Huang (Michael Ching-yuen Huang), a CS PhD student at Rutgers University.
 - 🔍 I’m interested in internet of agents, recommender systems, data mining, and large language models.  
-- 🧠 I’m currently working on LLM-Agents and Decentralized AI. 
+- 🧠 I’m currently working on LLM-Agents and Agentic AI. 
 - 🤝 I’m looking to collaborate with people interested in these topics.
 - 📬 Contact me: chy.huang@rutgers.edu [Research] or michaelh170418@gmail.com [Studio].
