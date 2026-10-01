@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Ching-Yuen (Michael) Huang, a CS PhD student at Rutgers University.
-- 🔍 I’m interested in internet of agents, recommender systems, data mining, and large language models.  
-- 🧠 I’m currently working on LLM-Agents and Agentic AI. 
+- 👋 Hi, I’m Ching-Yuen Huang, a CS PhD student at Rutgers University.
+- 🔍 I’m interested in efficient foundation models, Transformer architecture & mechanics, long-context modeling and recommender systems.
+- 🧠 I’m currently working on efficient LLM agents and extending efficient Transformer architectures to 3D and video Diffusion Transformers.
 - 🤝 I’m looking to collaborate with people interested in these topics.
+- 🌐 Personal Website: https://luckfort.github.io/
 - 📬 Contact me: chy.huang@rutgers.edu [Research] or michaelh170418@gmail.com [Studio].
